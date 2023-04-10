@@ -28,7 +28,7 @@ For this assignment：
               
               
               
-  =====================================  Preview  =====================================
+  ========================================  Preview  ========================================
   
 
 ![Image text](https://raw.githubusercontent.com/EVAN-LI98/ITGT521_3D-Graphics-and-Rendering_Assignment2_A-New-Plane/main/ScreenShot/Assignment2_2_ScreenShot.png)
